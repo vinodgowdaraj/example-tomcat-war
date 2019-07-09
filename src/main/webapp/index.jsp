@@ -7,7 +7,7 @@
 <title>Guru Registration Form</title>
 </head>
 <body>
-<h1>KESHAV SIR "Register Form"</h1>
+<h1>KESHAV "Register Form"</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
