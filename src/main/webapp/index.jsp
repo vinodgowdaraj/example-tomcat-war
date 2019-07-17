@@ -5,6 +5,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Guru Registration Form</title>
+	<style>
+		body {
+    background-color: #93B874;
+}
+	</style>
+	
 </head>
 <body>
 	<marquee>Devops Training by <b>keshav</b>..</marquee>
