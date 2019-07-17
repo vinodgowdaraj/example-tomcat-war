@@ -7,8 +7,9 @@
 <title>Guru Registration Form</title>
 </head>
 <body>
+	<marquee>Devops Training by <b>keshav</b>..</marquee>
 <h1>SEKHAR Devops "Register Form"</h1>
-<form action="guru_register" method="post">
+<form  color="orange" action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
