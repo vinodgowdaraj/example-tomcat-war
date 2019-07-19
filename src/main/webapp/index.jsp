@@ -14,8 +14,8 @@
 </head>
 <body>
 	<marquee>Devops Training by <b>keshav</b>..</marquee>
-<h1>SEKHAR Devops "Register Form"</h1>
-<form  color="orange" action="guru_register" method="post">
+<h1>VINOD DevOps "Register Form"</h1>
+<form  color="RED" action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
@@ -32,6 +32,11 @@
 					<tr>
 					<td>Password</td>
 					<td><input type="password" name="password" /></td>
+				</tr>
+				</tr>
+					<tr>
+					<td>Password1</td>
+					<td><input type="password1" name="password1" /></td>
 				</tr>
 				<tr>
 					<td>Address</td>
