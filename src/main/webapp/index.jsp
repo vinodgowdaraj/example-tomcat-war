@@ -4,48 +4,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru Registration Form</title>
-	<style>
-		body {
-    background-color: #93B874;
-}
-	</style>
+	<title>Resume</title>
+
 	
 </head>
 <body>
-	<marquee>Devops Training by <b>keshav</b>..</marquee>
-<h1>VINOD DevOps "Register Form"</h1>
-<form  color="RED" action="guru_register" method="post">
-			<table style="with: 50%">
-				<tr>
-					<td>First Name</td>
-					<td><input type="text" name="first_name" /></td>
-				</tr>
-				<tr>
-					<td>Last Name</td>
-					<td><input type="text" name="last_name" /></td>
-				</tr>
-				<tr>
-					<td>UserName</td>
-					<td><input type="text" name="username" /></td>
-				</tr>
-					<tr>
-					<td>Password</td>
-					<td><input type="password" name="password" /></td>
-				</tr>
-				</tr>
-					<tr>
-					<td>Password1</td>
-					<td><input type="password1" name="password1" /></td>
-				</tr>
-				<tr>
-					<td>Address</td>
-					<td><input type="text" name="address" /></td>
-				</tr>
-				<tr>
-					<td>Contact No</td>
-					<td><input type="text" name="contact" /></td>
-				</tr></table>
-			<input type="submit" value="Submit" /></form>
+	
+	<h2><p "align=center"> Resume..!</p></h2>
+	<br>
+	<br>
+	
+	<p align="center"><embed src="vinodrajbk.pdf" height="600" aligh="center" width="800"/></p>
+  
+
 </body>
 </html>
